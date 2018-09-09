@@ -8,6 +8,7 @@
   width: 200px;
   height: 100px;
   left: 250px;
+  position: absolute;
   position: top;
   background-color: yellow;
 }
@@ -16,6 +17,7 @@
   width: 200px;
   height: 100px;
   left: 500px;
+  position: absolute;
   position: top;
   background-color: green;
 }
