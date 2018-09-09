@@ -1,19 +1,14 @@
-.h1 {
-  color: blue;
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #555;
 }
 
-.h2 {
-  color: tomato;
-}
-
-.list {
-  color: pink;
-}
-
-.text {
-  color: rgb(221, 18, 39);
-}
-
-.text2 {
-  color: red;
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
 }
