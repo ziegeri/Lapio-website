@@ -11,9 +11,9 @@
 }
 
 .text {
-  color: tomato;
+  color: rgb(221, 18, 39);
 }
 
-#red {
+.text2 {
   color: red;
 }
